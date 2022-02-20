@@ -1,11 +1,12 @@
 # Controls
-←        left \n
-↑        up \n
-↓        down \n
-→        right \n
-q        change weapon \n
-e        change spell \n
-space    cast attack \n
-rshift   cast spell \n
-m        upgrade menu \n
+---keys  ---actions
+←        | left
+↑        | up
+↓        | down
+→        | right
+q        | change weapon
+e        | change spell
+space    | attck
+rshift   | cast spell
+m        | upgrade menu
  
