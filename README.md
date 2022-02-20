@@ -11,3 +11,4 @@
 | rshift | cast spell |
 | m | upgrade menu|
  
+note: please unzip Assets before running the code
